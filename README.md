@@ -56,7 +56,3 @@ Each task on the list has a delete button that allows users to remove the task. 
 ## 5. Summary
 
 The To-Do application combines backend and frontend technologies, offering users an intuitive and functional interface for task management. The use of React, Material-UI, Spring Boot, and PostgreSQL provides a solid foundation for further development and scaling of the application.
-
----
-
-This documentation provides an overview of the To-Do web application's structure, functionality, and technology stack. It serves as a guide for understanding the application's components and their interactions.
